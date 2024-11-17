@@ -1,0 +1,6 @@
+# Ignore environment files
+brain_tumor/.env
+.env
+D:\Brainormer-Minor\venv
+venv/
+D:\Brainormer-Minor\venv
