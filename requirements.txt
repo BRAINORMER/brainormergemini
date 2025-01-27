@@ -2,7 +2,7 @@ streamlit
 pillow
 numpy
 matplotlib
-ultralytics
+ultralytics==8.3.68
 torch
 opencv-python-headless
 python-dotenv
